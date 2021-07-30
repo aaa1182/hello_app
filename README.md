@@ -1,5 +1,5 @@
 # Ruby on Rails Tutorial
-## Railsチュートリアル3つ目のアプリ
+## Railsチュートリアル1つ目のアプリ
 # バージョンとか
 ## Ruby 2.6.6
 ## Rails 5.2.4.2
